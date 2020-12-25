@@ -3,7 +3,7 @@ Kaggle Competition for predicting whether students will be able to answer their 
 
 Kaggle Competition Link - https://www.kaggle.com/c/riiid-test-answer-prediction 
 
-Project Code - Riiid_lgb.ipynb
+Project Code - Riiid.ipynb
 
 Project Report - Riiid_report.pdf
 
